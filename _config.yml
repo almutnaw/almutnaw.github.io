@@ -10,19 +10,19 @@ description: > # this means to ignore newlines until "email:"
 
 email: nawwafofficial@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/website_logo2.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/A4.jpg"
 
 name: 'Nawwaf Almutairi'
 author: 'Nawwaf Almutairi'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/Nawwaf.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://almutnaw.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@almutnaw'
