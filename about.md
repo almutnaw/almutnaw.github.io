@@ -4,14 +4,10 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+For those who don't know me, My name is Nawwaf Almutairi and I am Computer Science student at Oregon state university. As big as the computer science major is I liked to specialize in building mobile applications for iOS and WatchOS.  
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+Created this website to share my thoughts and ideas the best way the 21st century can offer which is of course through writing short blogs for all my friends and family who would like to know what I have been up to in my crazy life `^^`
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+One passion of mine is sharing the knowledge I consume to others by writing tutorials that will make me better at learning materials and hopefully it will help others achieve their goals.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+For those interested in my professional career, this is my recent [resume](https://drive.google.com/a/oregonstate.edu/file/d/0Bw0OFPo7hrugZU1rUllMWEF5Tzg/view?usp=sharing)

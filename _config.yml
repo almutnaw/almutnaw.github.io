@@ -14,7 +14,7 @@ logo: "/assets/images/website_logo2.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/1.jpg"
+cover: "/assets/images/cover.jpg"
 
 name: 'Nawwaf Almutairi'
 author: 'Nawwaf Almutairi'
@@ -34,12 +34,12 @@ twitter_handle: '@almutnaw'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/almutnaw
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+  # - icon:	twitter
+  #   url:	https://twitter.com/almutnaw
+  #   desc: Follow me on twitter
+  #   share_url: http://twitter.com/share
+  #   share_title: ?text=
+  #   share_link: "&amp;url="
 
  # - icon:	instagram
  #   url:	https://www.instagram.com/nawwaf0/?hl=en
