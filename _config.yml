@@ -14,7 +14,7 @@ logo: "/assets/images/website_logo2.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cover.jpg"
+cover: "/assets/images/Cover.jpg"
 
 name: 'Nawwaf Almutairi'
 author: 'Nawwaf Almutairi'
