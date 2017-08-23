@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Welcome to my life!"
 date:   2017-08-15 14:54:25
 categories: jekyll update
