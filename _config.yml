@@ -41,13 +41,6 @@ social:
   #   share_title: ?text=
   #   share_link: "&amp;url="
 
- # - icon:	instagram
- #   url:	https://www.instagram.com/nawwaf0/?hl=en
- #   desc: follow me on instagram
- #   share_url: https://www.instagram.com/
- #   share_title: ?t=
- #   share_link: "&amp;u="
-
   - icon:	github
     url:	https://github.com/almutnaW
     desc:	Fork me on github
